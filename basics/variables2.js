@@ -48,3 +48,23 @@ console.log(typeof (valueInNumber6)) //but conversion is successfull
 // 33 ==> 33
 // "33" ==> NaN(Not a Number)
 // true=> 1, false=> 0
+
+let isLoggedIn = 1
+let booleanIsloggedIn = Boolean(isLoggedIn)
+console.log(isLoggedIn)
+
+// let isLoggedIn1 = ""
+// let booleanisloggedIn1 = Boolean(isloggedIn1)
+// console.log(isloggedIn1)
+
+// let isLoggedIn2 = "Raj"
+// let booleanisloggedIn2 = Boolean(isloggedIn2)
+// console.log(isloggedIn2)
+
+// 1  => true, -=> false
+// "" => false
+// "Raj"=> true
+
+let someNumber = 33
+let stringNumber = String(someNumber)
+console.log(stringNumber);
