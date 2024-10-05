@@ -1,2 +1,2 @@
 # jschai
-code repo
+code repository for aceing javascript and solving realworld problems 
